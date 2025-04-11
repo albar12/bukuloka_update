@@ -5,13 +5,13 @@
     <item>
       <version>1.0.1</version>
       <title>Versi 1.0.1</title>
-      <description>Perbaikan bug dan peningkatan performax.</description>
+      <description>Perbaikan bug dan peningkatan performaxx.</description>
       <enclosure
         url="https://bukuloka-update.vercel.app/bukuloka_reader_v1.0.1.1.msi"
         sparkle:version="1.0.1"
         length="21696600"
         type="application/octet-stream"
-        sparkle:dsaSignature='MDwCHFO+sgxQb/TbkxjYfpXJ5ff8KF0X4yX0CLuIjqQCHAfZJeacnqmje5gG9BmPlwHimHkRhzPDxBvOnz4=" length="0"' />
+        sparkle:dsaSignature="MDwCHC7aJUYZXb30HEAeErlTflGLNEzn9bz0Mrevp+wCHHBMEm7dE3qxfbG05xdVlpeI10bzXWhlakE7Oqs=" length="0" />
     </item>
   </channel>
 </rss>
