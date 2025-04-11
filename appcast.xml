@@ -3,15 +3,15 @@
   <channel>
     <title>BukuLoka Reader</title>
     <item>
-      <title>Versi 1.0.4</title>
-      <description>Update Verson 1.0.4</description>
-      <version>1.0.4</version>
+      <title>Versi 1.0.5</title>
+      <description>Update Verson 1.0.5</description>
+      <version>1.0.5</version>
       <enclosure
-        url="https://yapindo-cdn.b-cdn.net/download/tryout/tryout_bem/simama/android/bukuLoka_reader_v1.0.4.10.msi"
-        sparkle:version="1.0.4"
+        url="https://yapindo-cdn.b-cdn.net/download/tryout/tryout_bem/simama/android/bukuLoka_reader_v1.0.5.11.msi"
+        sparkle:version="1.0.5"
         length="21696600"
         type="application/octet-stream"
-        sparkle:dsaSignature="MD0CHCGN6STjXZnxq6jR7YE9cyzc++TKpAKNsBEhVP8CHQCQx/By2h0Ga3AV9R7Fu/79RU/y9Hwadlficrzk" />
+        sparkle:dsaSignature="MD0CHQCL6/jw2+yv6tiPB5wjMza//VkPWM9z8S+uGzv/Ahw7hB8r3adY1rl2xujFjuUB4wOa0oz9keP1robq" />
     </item>
   </channel>
 </rss>
