@@ -3,11 +3,11 @@
   <channel>
     <title>BukuLoka Reader</title>
     <item>
-      <title>Versi 1.0.1</title>
+      <title>Versi 1.0.2</title>
       <description>Perbaikan bug dan peningkatan performaxxxx.</description>
       <enclosure
         url="https://yapindo-cdn.b-cdn.net/download/tryout/tryout_bem/simama/android/bukuLoka_reader_v1.0.2.8.msi"
-        sparkle:version="1.0.1"
+        sparkle:version="1.0.2"
         length="21696600"
         type="application/octet-stream"
         sparkle:dsaSignature="MD0CHA2rIZwR64TW23t2OahSpS+wA0tzMxf70KPqHVsCHQCVsXn4edYNT32FYscG5aAsAxSSIbmkNrGQV016" />
