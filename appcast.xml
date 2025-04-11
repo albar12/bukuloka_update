@@ -7,11 +7,11 @@
       <title>Versi 1.0.1</title>
       <description>Perbaikan bug dan peningkatan performa.</description>
       <enclosure
-        url="http://localhost/bukuloka_update/bukuloka_reader_installer_v1.0.1.1.msi"
+        url="https://bukuloka-update.vercel.app/bukuloka_reader_v1.0.1.1.msi"
         sparkle:version="1.0.1"
         length="21696600"
         type="application/octet-stream"
-        sparkle:dsaSignature='MD4CHQCLydYgdlwjQeIo0X9Rfg843PMwVUb3oQXlBJnqAh0Ajjvkh26/CvZa4t2TufIVKxc+ICWfTFfpp7vNnQ==" length="0"' />
+        sparkle:dsaSignature='MDwCHFO+sgxQb/TbkxjYfpXJ5ff8KF0X4yX0CLuIjqQCHAfZJeacnqmje5gG9BmPlwHimHkRhzPDxBvOnz4=" length="0"' />
     </item>
   </channel>
 </rss>
