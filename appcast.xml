@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>BukuLoka Reader</title>
+    <item>
+      <version>1.0.1</version>
+      <title>Versi 1.0.1</title>
+      <description>Perbaikan bug dan peningkatan performa.</description>
+      <enclosure
+        url="http://localhost/bukuloka_update/bukuloka_reader_installer_v1.0.1.1.msi"
+        sparkle:version="1.0.1"
+        length="21696600"
+        type="application/octet-stream"
+        sparkle:dsaSignature='MD4CHQCLydYgdlwjQeIo0X9Rfg843PMwVUb3oQXlBJnqAh0Ajjvkh26/CvZa4t2TufIVKxc+ICWfTFfpp7vNnQ==" length="0"' />
+    </item>
+  </channel>
+</rss>
